@@ -77,12 +77,9 @@ Scikit-learn (ML model, evaluation)
 Contributions, issues, and feature requests are welcome.
 Feel free to fork this repo and submit pull requests.
 
-icense – you are free to use and modify it.
 
 💡 Made with ❤️ using Python, Pandas, Seaborn, and Scikit-Learn.
 
 
 
-Do you want me to also prepare a .gitignore file (so things like __pycache__ or .ipynb_checkpoints don’t clutter your repo)?
 
-ChatGPT can make mistakes. Check important info.
